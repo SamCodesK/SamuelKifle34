@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelKifle34
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning Front end developing.
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 
