@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuelKifle34
+- 👋 Hi, I’m @SamCodesK
 - 👀 I’m learning how to program.
 - 🌱 I’m currently learning Front end developing.
 - 💞️ I’m looking to collaborate on future projects.
